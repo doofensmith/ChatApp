@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310924025612",
+    "project_id": "chatapp-ccd4e",
+    "storage_bucket": "chatapp-ccd4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310924025612:android:333288684989ec6ba37329",
+        "android_client_info": {
+          "package_name": "com.softlaboratory.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310924025612-b2nv8t16dmru78bbni5nrord78cfbf2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CqLlgdZ-zs0RjY6c1Yzd-EHFpUZgN_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310924025612-b2nv8t16dmru78bbni5nrord78cfbf2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
