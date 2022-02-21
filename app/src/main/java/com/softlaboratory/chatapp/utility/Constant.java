@@ -11,4 +11,7 @@ public class Constant {
     public static final String KEY_PREFERENCE = "chatApp";
     public static final String KEY_LOGIN_STATE = "isLogin";
 
+    //FIREBASE CLOUD MESSAGING
+    public static final String KEY_FCM_TOKEN = "fcmToken";
+
 }
